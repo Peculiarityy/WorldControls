@@ -1,0 +1,11 @@
+name: WorldControl
+main: plugin.shadypaws.worldcontrol.Main
+description: World Control Plugin
+author: ShadyPaws
+version: 1.0.0
+depend: [Multiverse-Core]
+commands:
+
+  worldcontrol:
+    description: Main World Control Command
+    aliases: [wc]
